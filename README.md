@@ -1,2 +1,5 @@
-# healthcare-wait-time-analytics
-Initial project 1 structure
+# Hospital Wait-Time Optimization
+
+This project analyzes hospital patient wait times to identify
+operational bottlenecks, seasonal patterns, and staffing-related delays.
+
